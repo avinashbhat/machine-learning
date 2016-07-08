@@ -1,0 +1,6 @@
+1	M	F	S	0
+2	M	S	M	0
+3	M	S	M	0
+4	M	S	L	0
+5	M	S	E	0
+-1
