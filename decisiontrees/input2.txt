@@ -1,0 +1,15 @@
+1	h	h	f	0
+2	h	h	t	0
+3	h	h	f	1
+4	c	n	f	1
+5	c	n	t	1
+6	m	h	f	0
+7	c	n	f	1
+8	m	n	f	1
+9	m	n	t	1
+10	m	h	t	1
+11	h	n	f	1
+12	m	h	t	0
+13	c	n	t	0
+14	m	h	f	1
+-1
