@@ -1,7 +1,7 @@
 a.out:dt.c
-	gcc dt.c
-	./a.out<input2.txt
+	gcc dt_11716.c
+	./a.out
 
 compile: dt.c
-	gcc -g dt.c
+	gcc -g dt_11716.c
 	gdb ./a.out
