@@ -10,3 +10,11 @@ Inputs are taken and stored in structure.
 Update[10 Jul 2016] - Decision Trees
 
 Total GINI value of system and individual GINI values are calculated.
+
+Update[11 Jul 2016] - Decision Trees
+
+Branch prediction added.
+
+Update[12 Jul 2016] - Decision Trees
+
+Tree creation based on branching is added.
