@@ -18,3 +18,7 @@ Branch prediction added.
 Update[12 Jul 2016] - Decision Trees
 
 Tree creation based on branching is added.
+
+Update[13 Aug 2016] - Decision Trees
+
+Partially complete. Future development should start from printing tree, revised calculation at every step.
