@@ -1,6 +1,6 @@
 <h1> Data Mining Algorithms
 
-<h5>To build - $make
+<h5>To build decision tree - $make
 ---
 ***
 Update[8 Jul 2016] - Decision Trees
@@ -22,3 +22,10 @@ Tree creation based on branching is added.
 Update[13 Aug 2016] - Decision Trees
 
 Partially complete. Future development should start from printing tree, revised calculation at every step.
+
+Update[13 Aug 2016] - Wine Dataset Analysis
+
+The data set can be downloaded at https://archive.ics.uci.edu/ml/datasets/Wine+Quality
+Problem is to predict the category using classification model and to predict the rank using regression model.
+
+Uploaded partial code without confusion matrix. 
