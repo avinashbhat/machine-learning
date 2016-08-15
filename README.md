@@ -29,3 +29,8 @@ The data set can be downloaded at https://archive.ics.uci.edu/ml/datasets/Wine+Q
 Problem is to predict the category using classification model and to predict the rank using regression model.
 
 Uploaded partial code without confusion matrix. 
+
+Update[15 Aug 2016] - Wine Dataset Analysis
+
+Confusion Matrix for classification included.
+
