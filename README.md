@@ -1,4 +1,4 @@
-<h1> Data Mining Algorithms
+<h1> Machine Learning Algorithms
 
 <h5>To build decision tree - $make
 ---
