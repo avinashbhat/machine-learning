@@ -26,11 +26,14 @@ Partially complete. Future development should start from printing tree, revised 
 Update[13 Aug 2016] - Wine Dataset Analysis
 
 The data set can be downloaded at https://archive.ics.uci.edu/ml/datasets/Wine+Quality
-Problem is to predict the category using classification model and to predict the rank using regression model.
+Problem is to predict the category using classification model and to predict the rank using regression model. Code in R.
 
 Uploaded partial code without confusion matrix. 
 
 Update[15 Aug 2016] - Wine Dataset Analysis
 
 Confusion Matrix for classification included.
+
+
+New Update[13 Feb 2017] - Added implementation of KMeans Clustering and Dataset Generation for Apriori. Code in Python.
 
