@@ -35,5 +35,6 @@ Update[15 Aug 2016] - Wine Dataset Analysis
 Confusion Matrix for classification included.
 
 
-New Update[13 Feb 2017] - Added implementation of KMeans Clustering and Dataset Generation for Apriori. Code in Python.
+Update[13 Feb 2017] - Added implementation of KMeans Clustering and Dataset Generation for Apriori. Code in Python.
 
+Update[4 November 2019] - Time to add new stuff. Moved earlier code into subfolders. Will be using Jupyter Notebooks from now.
